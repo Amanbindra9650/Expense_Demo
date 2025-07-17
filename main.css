@@ -1,0 +1,9 @@
+.r-row{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.col{
+    background-color: aqua;
+    width: 400px;
+}
